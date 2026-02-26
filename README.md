@@ -1,4 +1,4 @@
-```markdown
+
 # Revenue Radar: AI-Powered Sales Analytics
 
 ## Executive Summary
